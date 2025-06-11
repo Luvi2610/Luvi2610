@@ -1,7 +1,7 @@
 ## 👋 Hello! I'm Lucas
 
 👨‍🎓 I'm a Computer Science student at UNESP  
-🌱 Currently studying Algorythms and Data Structures  
-💻 My main language is C#  
-  
+🌱 Currently studying JS, ReactJS and NodeJS
+💻 I have experience working with C# ASP.NET Core software development
+
 
